@@ -55,7 +55,7 @@ Currently focused on improving code quality, understanding architectural pattern
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sjaevoy&theme=dark&hide_border=true&refresh=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sjaevoy&theme=default&hide_border=true&refresh=1)
 
 ## 📫 Connect With Me
 
