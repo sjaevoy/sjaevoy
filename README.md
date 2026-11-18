@@ -10,29 +10,36 @@ Interested in backend engineering, application architecture, database management
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=php,js,html,css](https://skillicons.dev/icons?i=php,js,html,css)" height="45" /> \</p>
+### Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="45" alt="Expo" />
+</p>
 
-**Frameworks & Libraries**
+### Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=laravel,react,expo](https://skillicons.dev/icons?i=laravel,react,expo)" height="45" /> \</p>
-
-**Databases & Tools**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,git,github,postman,vscode](https://skillicons.dev/icons?i=mysql,git,github,postman,vscode)" height="45" />
-\</p>
-
-**Development Environment**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=windows](https://skillicons.dev/icons?i=windows)" height="45" />
-\</p>
-
----
+### Development Environment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="45" alt="Windows" />
+</p>
 
 
 
