@@ -14,21 +14,27 @@ Interested in backend engineering, application architecture, database management
 
 **Languages**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=php,js,html,css](https://skillicons.dev/icons?i=php,js,html,css)" /> \</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=php,js,html,css](https://skillicons.dev/icons?i=php,js,html,css)" height="45" /> \</p>
 
 **Frameworks & Libraries**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=laravel,react,expo](https://skillicons.dev/icons?i=laravel,react,expo)" /> \</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=laravel,react,expo](https://skillicons.dev/icons?i=laravel,react,expo)" height="45" /> \</p>
 
 **Databases & Tools**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=mysql,git,github,postman,vscode](https://skillicons.dev/icons?i=mysql,git,github,postman,vscode)" /> \</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,git,github,postman,vscode](https://skillicons.dev/icons?i=mysql,git,github,postman,vscode)" height="45" />
+\</p>
 
 **Development Environment**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=windows](https://skillicons.dev/icons?i=windows)" /> \</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=windows](https://skillicons.dev/icons?i=windows)" height="45" />
+\</p>
 
 ---
+
+
 
 ### 💡 Technical Interests
 
