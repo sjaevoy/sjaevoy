@@ -2,11 +2,9 @@
 
 ### Full-Stack Developer | Web & Mobile Application Development
 
-IT graduate and software developer with hands-on experience in developing web and mobile applications. Focused on building reliable, maintainable, and scalable software solutions through thoughtful system design, backend development, and API integration.
+Software developer and BS Information Technology graduate with nearly two years of professional development experience building web and mobile applications. Experienced in developing application features, integrating RESTful APIs, managing relational databases, and improving existing systems.
 
-Currently working as a **Part-Time Web and Mobile Application Developer**, with nearly two years of experience contributing to application development, implementing features, integrating APIs, and improving existing systems.
-
-Interested in backend engineering, application architecture, database management, and developing efficient solutions to real-world problems.
+Primarily focused on backend development and application architecture, with experience across the development of web and mobile solutions. Interested in building maintainable, scalable, and reliable software through sound engineering practices and thoughtful system design.
 
 ---
 
@@ -55,16 +53,20 @@ Currently focused on improving code quality, understanding architectural pattern
 
 ---
 
-### 📫 Connect With Me
+## 📊 GitHub Stats:
 
-\<p>
-&#x20; \<a href="mailto\:sjaevoy\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaevoy&hide_border=true)](https://git.io/streak-stats)
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/fgelsano">
+    <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
