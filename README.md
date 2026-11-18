@@ -1,16 +1,68 @@
-## Hi there 👋
+# Jaevoy Seloterio
 
-<!--
-**sjaevoy/sjaevoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Web & Mobile Application Development
 
-Here are some ideas to get you started:
+IT graduate and software developer with hands-on experience in developing web and mobile applications. Focused on building reliable, maintainable, and scalable software solutions through thoughtful system design, backend development, and API integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a **Part-Time Web and Mobile Application Developer**, with nearly two years of experience contributing to application development, implementing features, integrating APIs, and improving existing systems.
+
+Interested in backend engineering, application architecture, database management, and developing efficient solutions to real-world problems.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=php,js,html,css](https://skillicons.dev/icons?i=php,js,html,css)" /> \</p>
+
+**Frameworks & Libraries**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=laravel,react,expo](https://skillicons.dev/icons?i=laravel,react,expo)" /> \</p>
+
+**Databases & Tools**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=mysql,git,github,postman,vscode](https://skillicons.dev/icons?i=mysql,git,github,postman,vscode)" /> \</p>
+
+**Development Environment**
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=windows](https://skillicons.dev/icons?i=windows)" /> \</p>
+
+---
+
+### 💡 Technical Interests
+
+- Backend Engineering & Software Architecture
+- Scalable and Maintainable Application Design
+- RESTful API Design & System Integration
+- Database Optimization & Data Management
+- Mobile Application Development
+- Offline-First Systems & Data Synchronization
+- Software Engineering Principles & Design Patterns
+
+---
+
+### 📚 Professional Development
+
+Continuously strengthening my software engineering foundations through hands-on development, technical exploration, and practical problem-solving.
+
+Currently focused on improving code quality, understanding architectural patterns, and developing applications that prioritize maintainability, reliability, and performance.
+
+---
+
+### 📫 Connect With Me
+
+\<p>
+&#x20; \<a href="mailto\:sjaevoy\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+---
+
+\<p align="center">
+&#x20; \<i>Building software, solving problems, and continuously improving.\</i>
+\</p>
