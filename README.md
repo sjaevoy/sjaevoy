@@ -55,16 +55,15 @@ Currently focused on improving code quality, understanding architectural pattern
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sjaevoy&hide_border=true)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=sjaevoy&theme=dark&hide_border=true&refresh=1)
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sjaevoy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/fgelsano">
+  <a href="https://github.com/sjaevoy">
     <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
