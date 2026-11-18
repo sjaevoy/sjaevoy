@@ -55,7 +55,7 @@ Currently focused on improving code quality, understanding architectural pattern
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sjaevoy&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&refresh=3)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sjaevoy" alt="GitHub Streak" /></a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjaevoy&layout=compact&langs_count=6&hide_border=true)
 
