@@ -72,6 +72,6 @@ Currently focused on improving code quality, understanding architectural pattern
 
 ---
 
-\<p align="center">
-&#x20; \<i>Building software, solving problems, and continuously improving.\</i>
-\</p>
+<p align="center">
+  <i>💻 Building software, solving problems, and continuously improving. 🚀</i>
+</p>
